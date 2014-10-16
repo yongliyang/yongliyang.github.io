@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[YongliYang's Blog]]></title>
-  <link href="http://yongliyang.github.io/atom.xml" rel="self"/>
-  <link href="http://yongliyang.github.io/"/>
-  <updated>2014-10-16T21:19:18+08:00</updated>
-  <id>http://yongliyang.github.io/</id>
+  <link href="http://YongliYang.github.io/atom.xml" rel="self"/>
+  <link href="http://YongliYang.github.io/"/>
+  <updated>2014-10-16T23:31:50+08:00</updated>
+  <id>http://YongliYang.github.io/</id>
   <author>
     <name><![CDATA[Yongli Yang]]></name>
     
